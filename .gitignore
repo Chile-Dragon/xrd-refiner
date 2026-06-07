@@ -17,3 +17,6 @@ test_si.opju.oggu
 run_in_origin.ogs
 build_plot*.ogs
 TiO2_PCF_XRD*
+build/
+dist/
+XRD_Refiner.exe
